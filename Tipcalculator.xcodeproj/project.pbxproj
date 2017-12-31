@@ -14,6 +14,7 @@
 		23A1D5E21FF7A30B00E15A74 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23A1D5E01FF7A30B00E15A74 /* LaunchScreen.storyboard */; };
 		23A1D5ED1FF7A30B00E15A74 /* TipcalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A1D5EC1FF7A30B00E15A74 /* TipcalculatorTests.swift */; };
 		23A1D5F81FF7A30B00E15A74 /* TipcalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23A1D5F71FF7A30B00E15A74 /* TipcalculatorUITests.swift */; };
+		23A1D6061FF90D4900E15A74 /* RTdgoLRLc.png in Resources */ = {isa = PBXBuildFile; fileRef = 23A1D6051FF90D4900E15A74 /* RTdgoLRLc.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		23A1D5F31FF7A30B00E15A74 /* TipcalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipcalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A1D5F71FF7A30B00E15A74 /* TipcalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipcalculatorUITests.swift; sourceTree = "<group>"; };
 		23A1D5F91FF7A30B00E15A74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23A1D6051FF90D4900E15A74 /* RTdgoLRLc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RTdgoLRLc.png; path = ../../../Downloads/RTdgoLRLc.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				23A1D5D71FF7A30B00E15A74 /* AppDelegate.swift */,
 				23A1D5D91FF7A30B00E15A74 /* ViewController.swift */,
 				23A1D5DB1FF7A30B00E15A74 /* Main.storyboard */,
+				23A1D6051FF90D4900E15A74 /* RTdgoLRLc.png */,
 				23A1D5DE1FF7A30B00E15A74 /* Assets.xcassets */,
 				23A1D5E01FF7A30B00E15A74 /* LaunchScreen.storyboard */,
 				23A1D5E31FF7A30B00E15A74 /* Info.plist */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23A1D5E21FF7A30B00E15A74 /* LaunchScreen.storyboard in Resources */,
+				23A1D6061FF90D4900E15A74 /* RTdgoLRLc.png in Resources */,
 				23A1D5DF1FF7A30B00E15A74 /* Assets.xcassets in Resources */,
 				23A1D5DD1FF7A30B00E15A74 /* Main.storyboard in Resources */,
 			);
